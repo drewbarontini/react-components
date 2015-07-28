@@ -10,7 +10,7 @@ Gravatar
 React.render(
   <Gravatar email='test@example.com' />,
   document.body
-;)
+);
 ```
 
 Image
@@ -25,7 +25,7 @@ React.render(
     height='200'
     className='thumb' />,
   document.body
-;)
+);
 ```
 
 Share
