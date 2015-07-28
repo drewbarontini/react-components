@@ -43,7 +43,7 @@ export default class extends React.Component {
 
   // ----- Render ----- //
 
-  render: function() {
+  render() {
     return(
       <img
         className='gravatar'
