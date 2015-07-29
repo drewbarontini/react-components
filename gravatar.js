@@ -15,7 +15,7 @@ import md5   from 'MD5';
 //   Base
 // -------------------------------------
 
-export default class extends React.Component {
+export default class Gravatar extends React.Component {
 
   // ----- Constructor ----- //
 
