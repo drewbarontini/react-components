@@ -35,7 +35,7 @@ export default class Gravatar extends React.Component {
     var gravatar = 'http://www.gravatar.com/avatar/' + md5( this.props.email );
 
     if ( this._isDefaultGravatar( gravatar ) ) {
-      return 'http://lorempixel.com/60/60/food/';
+      return 'https://unsplash.it/60';
     }
 
     return gravatar;
